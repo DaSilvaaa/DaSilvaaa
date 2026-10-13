@@ -34,7 +34,7 @@ Monorepo com ferramentas práticas de engenharia de software e cibersegurança:
 ---
 
 ### 📬 Contacto
-- LinkedIn: [linkedin.com/in/oteu-perfil](https://linkedin.com)
+- LinkedIn: [linkedin.com/in/oteu-perfil](www.linkedin.com/in/diogo-silva-860185351)
 - Email: [diogo.eduardo.taveira.silva@gmail.com](mailto:diogo.eduardo.taveira.silva@gmail.com)## Hi there 👋
 
 <!--
