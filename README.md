@@ -7,7 +7,7 @@ Engenheiro Computacional (Universidade de Aveiro) e mestrando em Sistemas Energ�
 | Projeto | O que mostra |
 |---|---|
 | [**secure-auth-api**](https://github.com/DaSilvaaa/secure-auth-api) | Backend de autenticação em FastAPI: Argon2id, JWT, 2FA TOTP, reset de password, Docker, 26 testes |
-| [**solar-forecast-dashboard**](https://github.com/DaSilvaaa/solar-forecast-dashboard) | Previsão fotovoltaica day-ahead com meteorologia real, validação sem fuga temporal e dashboard Streamlit |
+| [**solar-forecast-dashboard**](https://github.com/DaSilvaaa/solar-forecast-dashboard) ([demo](https://solar-forecast-dashboard-7emef2jcoch4zbdmsjzr82.streamlit.app/)) | Previsão fotovoltaica day-ahead com meteorologia real, validação sem fuga temporal e dashboard Streamlit |
 | [**site-security-auditor**](https://github.com/DaSilvaaa/site-security-auditor) | Auditoria de headers, cookies e TLS de um site, com relatório PDF para o cliente |
 
 Mais experiências (Rust, C++, Java, C#, ML de raiz) em [Portfolio_Engineering](https://github.com/DaSilvaaa/Portfolio_Engineering).
