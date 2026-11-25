@@ -27,13 +27,6 @@ More experiments (Rust, C++, Java, C#, ML from scratch) in [Portfolio_Engineerin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-## GitHub stats
-
-<p>
-  <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DaSilvaaa&show_icons=true&hide_border=true&count_private=false" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaSilvaaa&layout=compact&hide_border=true" />
-</p>
-
 ## Languages
 Portuguese (native) · English (C1)
 
